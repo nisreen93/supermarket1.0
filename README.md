@@ -36,7 +36,7 @@ commands.txt: Command file containing predefined commands for file mode.
 *Clone the repository:
 
 /bash
-git clone https://github.com/nisreen93/supermarket.git
+git clone https://github.com/nisreen93/supermarket1.0.git
 cd <file location>
 Build the project:
 
